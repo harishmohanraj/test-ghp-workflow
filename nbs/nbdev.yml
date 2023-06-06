@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "test-ghp-workflow"
+  site-url: "https://harishmohanraj.github.io/test-ghp-workflow"
+  description: "test-ghp-workflow"
+  repo-branch: main
+  repo-url: "https://github.com/harishmohanraj/test-ghp-workflow"
